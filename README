@@ -1,0 +1,17 @@
+Interfaces:
+
+:: query ::
+
+./query [uid]
+
+Status: not implemented
+
+
+:: name2uid ::
+
+./n2u [name]
+
+May be used together with #query.
+
+Status: not implemented
+
